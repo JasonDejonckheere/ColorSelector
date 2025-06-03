@@ -52,6 +52,6 @@ function resetColor(){
     const parColor = document.getElementById("colorResult");
     
     hdgColor.style.color = "black";
-    hdgColor.textContent = "Get color"
+    hdgColor.textContent = "Color Selector"
     parColor.textContent = "";
 }
